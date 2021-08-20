@@ -2,4 +2,4 @@
 
 User Registration and Login Sample in VueJs
 
-To see a demo  go to https://whizpool.com/samplevue
+To see a demo  go to https://samplevue.whizpool.com/
